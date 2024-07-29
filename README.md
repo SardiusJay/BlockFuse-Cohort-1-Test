@@ -55,3 +55,5 @@ Making use of useState to handle individual state component and UseReducer for t
 To implement routing, i will use react-router-dom
 
 # How would you handle form validation and error messages?
+
+Form Validation can be handle byu using the controlled for the form input and for the error messages i can use state to tract validation error and to display it in the UI design.
