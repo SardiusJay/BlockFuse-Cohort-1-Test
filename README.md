@@ -40,14 +40,18 @@ A Folder was Created named SectionA, which contain a File with question.js and a
     output = [0, 3]
     Because nums[0] + nums[3] == 0, we return [0, 3]
 
-# Section B Q3
+## Section B Q3
 
-Make sure of ReactJs using pnpm to install vite + React
+Make use of ReactJs using pnpm to install vite + React
 
-# Questions:
+## Questions:
 
-How would you manage the application state in your SPA?
+# How would you manage the application state in your SPA?
 
-Describe how you would implement routing in the SPA.
+Making use of useState to handle individual state component and UseReducer for the reducer of the function of the state.
 
-How would you handle form validation and error messages?
+# Describe how you would implement routing in the SPA.
+
+To implement routing, i will use react-router-dom
+
+# How would you handle form validation and error messages?
