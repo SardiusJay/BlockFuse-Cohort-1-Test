@@ -1,6 +1,6 @@
-import React from 'react'
+import { React } from 'react'
   
-function Header() {
+export function Header() {
     return (
       <div>
         <nav className="nav">
@@ -17,6 +17,4 @@ function Header() {
         </nav>
       </div>
     );
-}
-  
-export default Header;
+};
